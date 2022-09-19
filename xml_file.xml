@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Animals>
+    <Animal name="cat Taychik">
+        <Age>5months</Age>
+        <Friend>DogMichle</Friend>
+    </Animal>
+    <Animal name="chick Karkusha">
+        <Age>30days</Age>
+        <Friend>chicken</Friend>
+    </Animal>
+</Animals>
